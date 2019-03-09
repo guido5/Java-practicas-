@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"bloques.de.codigo","c":"BloquesCodigo","l":"BloquesCodigo()","url":"%3Cinit%3E()"},{"p":"bloques.de.codigo","c":"Persona","l":"getIdPersona()"},{"p":"bloques.de.codigo","c":"BloquesCodigo","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"bloques.de.codigo","c":"Persona","l":"Persona()","url":"%3Cinit%3E()"}]

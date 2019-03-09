@@ -1,0 +1,9 @@
+Enumeracion en java
+
+public enum Nombre{
+    ATRIBUTOS EN MAYUSCULAS;
+}
+
+Se parece a los menus en android, asi como las constantes para detener un proceso o seleccionar algo.
+
+Se le pueden agregar atributos a cada uno de los elementos de la enumeracion. Por lo tanto metodos.
